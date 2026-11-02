@@ -1,8 +1,8 @@
 # Secretary: 游戏非官方简体中文汉化
 
-> **Secretary: The Game Unofficial Simplified Chinese Localization**
+> **Secretary Unofficial Simplified Chinese Localization**
 
-这是一个为 **Secretary: The Game** 制作的非官方简体中文汉化项目。
+这是一个为 **Secretary** 制作的非官方简体中文汉化项目。
 
 本项目旨在帮助中文玩家更方便地体验游戏内容。汉化内容由社区/个人爱好者制作，与游戏原作者及官方团队没有任何隶属关系。
 
@@ -12,7 +12,7 @@
 
 ## 📖 关于游戏
 
-**Secretary: The Game** 是一款成人向的冒险与生活模拟游戏。玩家将扮演一名原本从事白领工作的角色，在生活发生变化后，开始面对一段与新上司有关的特殊经历。
+**Secretary** 是一款成人向的冒险与生活模拟游戏。玩家将扮演一名原本从事白领工作的角色，在生活发生变化后，开始面对一段与新上司有关的特殊经历。
 
 游戏包含成人主题、性内容、性别表达、BDSM 等内容，仅建议符合当地法律规定年龄的成年人游玩。
 
@@ -71,7 +71,7 @@ Wiki 包含游戏机制、角色、剧情流程、FAQ 等资料。请注意，�
 
 ### 非官方项目
 
-本项目是一个**非官方的粉丝汉化项目**，与 **Secretary: The Game** 的开发者、作者、发行方及其相关官方社区没有任何隶属、合作、授权或认可关系。
+本项目是一个**非官方的粉丝汉化项目**，与 **Secretary** 的开发者、作者、发行方及其相关官方社区没有任何隶属、合作、授权或认可关系。
 
 游戏本体及其中的角色、文本、美术、音乐、程序、商标及其他相关知识产权均归其原始权利人所有。
 
@@ -144,7 +144,7 @@ Wiki 包含游戏机制、角色、剧情流程、FAQ 等资料。请注意，�
 
 ## ❤️ 支持原作
 
-如果你喜欢 **Secretary: The Game**，请优先支持游戏的原作者和官方开发。
+如果你喜欢 **Secretary**，请优先支持游戏的原作者和官方开发。
 
 * [官方网站 / Blog](http://www.secretarygame.com/blog/?utm_source=chatgpt.com)
 * [官方 Patreon](https://www.patreon.com/_deedee?utm_source=chatgpt.com)
@@ -161,7 +161,7 @@ Wiki 包含游戏机制、角色、剧情流程、FAQ 等资料。请注意，�
 
 ---
 
-> **Secretary: The Game 非官方简体中文汉化**
+> **Secretary 非官方简体中文汉化**
 >
 > 本项目为粉丝制作，与官方无关。
 > **请支持原作，并通过官方渠道获取游戏。**
